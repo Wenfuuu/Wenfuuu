@@ -19,15 +19,16 @@ Network Administrator and backend engineer managing a **self-hosted Kubernetes c
 ## Selected Projects
 
 **Infrastructure & Platform**
-- **Self-hosted Kubernetes cluster** — operated as part of my Network Administrator role, running a GitOps + DevSecOps delivery pipeline: declarative Git-driven reconciliation, admission-policy enforcement, and image scanning + signing before deploy. `Kubernetes` `Flux` `Kyverno` `Harbor` `Trivy` `Cosign`
+- **Self-hosted Kubernetes cluster** — run for my NA role; GitOps + DevSecOps delivery, end to end. `Kubernetes` `Flux` `Kyverno` `Harbor` `Trivy` `Cosign`
 
 **Backend & Systems**
-- **BeaTraction** — real-time attraction registration platform built to handle high volumes of concurrent users. `React` `.NET`
-- **BeaTraction-observability** — standalone learning project instrumenting the BeaTraction app to explore metrics, dashboards, and alerting. `Shell` `Prometheus` `Grafana`
-- **TPAWeb_AYcom** — microservices Twitter clone, layered architecture per service. `Svelte` `Go`
+- **[BeaTraction](https://github.com/Wenfuuu/BeaTraction)** — real-time registration platform built for high concurrency. `React` `.NET`
+- **[BeaTraction-observability](https://github.com/Wenfuuu/BeaTraction-observability)** — observability lab: metrics, dashboards, alerting. `Shell` `Prometheus` `Grafana`
+- **[TPAWeb_AYcom](https://github.com/Wenfuuu/TPAWeb_AYcom)** — microservices Twitter clone, layered per service. `Svelte` `Go`
 
 **Research**
-- **Quantization & Explainability in NLP** — PTQ/QAT effects on explainability in transformer models (IndoBERT, mBERT, XLM-RoBERTa); extending into multi-teacher knowledge distillation for code-domain LLMs. `PyTorch` `XAI` `Knowledge Distillation`
+- **[Quantization & Explainability in NLP](https://github.com/Wenfuuu/model-quantization-sentiment-analysis)** — PTQ/QAT effects on XAI in transformers. `PyTorch` `XAI` `Quantization`
+- **[Knowledge Distillation × Quantization](https://github.com/MarvelCollin/knowledge-distillation-quantization)** — multi-teacher KD from DeepSeek/Qwen for reasoning & competitive-programming LLMs. `PyTorch` `Knowledge Distillation` `Docker`
 
 ## Tech
 
