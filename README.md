@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Bertrand — Bet
+# Hi, I'm Bertrand (Bet)
 
 **Platform / DevOps Engineer** • Backend Engineer • AI Researcher
 
@@ -14,21 +14,21 @@
 
 ## About
 
-Network Administrator and backend engineer managing a **self-hosted Kubernetes cluster** with a full **GitOps / DevSecOps** pipeline — policy-gated admission, signed images, and continuous scanning end to end. CS student at Binus University building fast, reliable systems from low-level code to high-concurrency web platforms, and researching quantization / explainability in transformer-based NLP.
+Network Administrator and backend engineer managing a **self-hosted Kubernetes cluster** with a full **GitOps / DevSecOps** pipeline such as policy-gated admission, signed images, and continuous scanning end to end. CS student at Binus University building fast, reliable systems from low-level code to high-concurrency web platforms, and researching quantization / explainability in transformer-based NLP.
 
 ## Selected Projects
 
-**Infrastructure & Platform**
-- **Self-hosted Kubernetes cluster** — run for my NA role; GitOps + DevSecOps delivery, end to end. `Kubernetes` `Flux` `Kyverno` `Harbor` `Trivy` `Cosign`
+**Infrastructure**
+- **Self-hosted Kubernetes cluster** (my NA job): full GitOps + DevSecOps setup. `Kubernetes` `Flux` `Kyverno` `Harbor` `Trivy` `Cosign`
 
-**Backend & Systems**
-- **[BeaTraction](https://github.com/Wenfuuu/BeaTraction)** — real-time registration platform built for high concurrency. `React` `.NET`
-- **[BeaTraction-observability](https://github.com/Wenfuuu/BeaTraction-observability)** — observability lab: metrics, dashboards, alerting. `Shell` `Prometheus` `Grafana`
-- **[TPAWeb_AYcom](https://github.com/Wenfuuu/TPAWeb_AYcom)** — microservices Twitter clone, layered per service. `Svelte` `Go`
+**Backend**
+- **[BeaTraction](https://github.com/Wenfuuu/BeaTraction)**: real-time registration platform for high traffic. `React` `.NET`
+- **[BeaTraction-observability](https://github.com/Wenfuuu/BeaTraction-observability)**: metrics, dashboards and alerts for BeaTraction. `Shell` `Prometheus` `Grafana`
+- **[TPAWeb_AYcom](https://github.com/Wenfuuu/TPAWeb_AYcom)**: microservices Twitter clone. `Svelte` `Go`
 
 **Research**
-- **[Quantization & Explainability in NLP](https://github.com/Wenfuuu/model-quantization-sentiment-analysis)** — PTQ/QAT effects on XAI in transformers. `PyTorch` `XAI` `Quantization`
-- **[Knowledge Distillation × Quantization](https://github.com/MarvelCollin/knowledge-distillation-quantization)** — multi-teacher KD from DeepSeek/Qwen for reasoning & competitive-programming LLMs. `PyTorch` `Knowledge Distillation` `Docker`
+- **[Quantization & Explainability](https://github.com/Wenfuuu/model-quantization-sentiment-analysis)**: how PTQ/QAT affects explainability in transformers. `PyTorch` `XAI` `Quantization`
+- **[KD + Quantization](https://github.com/MarvelCollin/knowledge-distillation-quantization)**: multi-teacher distillation from DeepSeek/Qwen for reasoning and coding LLMs. `PyTorch` `Knowledge Distillation` `Docker`
 
 ## Tech
 
