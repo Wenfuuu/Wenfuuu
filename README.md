@@ -23,7 +23,6 @@ Network Administrator and backend engineer managing a **self-hosted Kubernetes c
 
 **Backend**
 - **[BeaTraction](https://github.com/Wenfuuu/BeaTraction)**: real-time registration platform for high traffic. `React` `.NET`
-- **[BeaTraction-observability](https://github.com/Wenfuuu/BeaTraction-observability)**: metrics, dashboards and alerts for BeaTraction. `Shell` `Prometheus` `Grafana`
 - **[TPAWeb_AYcom](https://github.com/Wenfuuu/TPAWeb_AYcom)**: microservices Twitter clone. `Svelte` `Go`
 
 **Research**
